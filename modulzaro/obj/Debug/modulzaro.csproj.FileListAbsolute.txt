@@ -1,0 +1,7 @@
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\bin\Debug\modulzaro.exe.config
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\obj\Debug\modulzaro.csprojResolveAssemblyReference.cache
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\obj\Debug\MainWindow.g.cs
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\obj\Debug\App.g.cs
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\obj\Debug\modulzaro_MarkupCompile.cache
+C:\Users\Almási  Ferenc\Documents\szakgodga\modulzaro\modulzaro\modulzaro\obj\Debug\modulzaro_MarkupCompile.lref
+F:\modul\modulzaro\modulzaro\bin\Debug\modulzaro.exe.config
